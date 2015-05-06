@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.andresjimenezm.taxicobro2"
+    version   = "1.0.0">
+
+<name>TaxiCobro 2.1</name>
+
+<description>
+Esta aplicacion está desarrollada para calcular la unidades en pesos, del taximetro de los vehiculos en la ciudad de Bogota-Colombia.
+</description>
+
+<preference name="fullscreen" value="true" />
+<icon src="img/icotaxi.png"/>
+<gap:splash gap:density="ldpi" gap:platform="android" src="img/splash.png" />
+<author href="https://www.andresjimenezm.com" email="andresjimenezm@hotmail.com">
+Andres Jimenez M.
+</author>
+
+</widget>
