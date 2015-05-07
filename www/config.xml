@@ -4,15 +4,15 @@
     id        = "com.andresjimenezm.taxicobro2"
     version   = "1.0.0">
 
-<name>TaxiCobro 2.1</name>
+<name>NBT 2.1</name>
 
 <description>
 Esta aplicacion está desarrollada para calcular la unidades en pesos, del taximetro de los vehiculos en la ciudad de Bogota-Colombia.
 </description>
 
 <preference name="fullscreen" value="true" />
-<icon src="img/icotaxi.png"/>
-<gap:splash gap:density="ldpi" gap:platform="android" src="img/splash.png" />
+<icon src="img/nbticotest.png"/>
+<gap:splash gap:density="ldpi" gap:platform="android" src="img/splashTESTNBT.png" />
 <author href="https://www.andresjimenezm.com" email="andresjimenezm@hotmail.com">
 Andres Jimenez M.
 </author>
